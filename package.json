@@ -1,0 +1,9 @@
+{
+  "name": "@snarechops/markdown",
+  "version": "0.0.1",
+  "description": "Very tiny markdown to html parser with added attribute syntax",
+  "type": "module",
+  "main": "src/index.js",
+  "author": "SnareChops",
+  "license": "MIT"
+}
